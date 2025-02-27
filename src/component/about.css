@@ -1,0 +1,10 @@
+.h1-about{
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+}
+
+.p-about{
+    font-size: 20px;
+    max-width: 50%;
+}
